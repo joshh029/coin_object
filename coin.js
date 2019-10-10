@@ -70,7 +70,7 @@ function display20Images() {
         results.push(coin.toHTML())
         
     }
-    Array.document.write(results);
+    
     return results 
     
 }
